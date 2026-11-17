@@ -136,6 +136,6 @@ Cybersecurity is a broad, fast-growing field that is short on people and open to
 
 ---
 
-*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link: https://darajat.hashnode.dev/presecurity-learning-to-think-like-both-the-attacker-and-the-defender *
+Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link: https://darajat.hashnode.dev/presecurity-learning-to-think-like-both-the-attacker-and-the-defender 
 
 *Until then, keep exploring, keep experimenting, keep learning.*
