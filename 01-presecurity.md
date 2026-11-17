@@ -110,7 +110,7 @@ Cybersecurity is a broad, fast-growing field that is short on people and open to
 | --- | --- |
 | Offensive security | Simulating an attacker to find weaknesses first. |
 | Defensive security | Investigating and stopping attackers to protect an organisation. |
-| Content discovery | Tools like `dirb` find unlinked pages — "not linked" ≠ "not reachable." |
+| Content discovery | Tools like `dirb` find unlinked pages "not linked" ≠ "not reachable." |
 | Alert triage | Identifying the most suspicious alert and why. |
 | Attack path reconstruction | Following the pages an attacker touched to understand intent. |
 | Containment | Blocking the source, slowing activity, enabling protection. |
