@@ -1,6 +1,6 @@
 TryHackMe — Presecurity
 
-**Series:** TryHackMe Room Walkthroughs · Room 01 **Platform:** [TryHackMe](https://tryhackme.com/) **Module:** Presecurity (introductory) **Focus:** Offensive vs. defensive security, hands-on reconnaissance and triage, and the cybersecurity career landscape **Companion article:** \[Hashnode : add link after publishing\]
+**Series:** TryHackMe Room Walkthroughs · Room 01 **Platform:** [TryHackMe](https://tryhackme.com/) **Module:** Presecurity (introductory) **Focus:** Offensive vs. defensive security, hands-on reconnaissance and triage, and the cybersecurity career landscape **Companion article:** https://darajat.hashnode.dev/presecurity-learning-to-think-like-both-the-attacker-and-the-defender
 
 > **Series note:** This is Room 01 of an ongoing TryHackMe Room Walkthroughs series. Each entry documents method and understanding, not flags or quiz answers, so the rooms keep their learning value for other beginners.
 
@@ -136,6 +136,6 @@ Cybersecurity is a broad, fast-growing field that is short on people and open to
 
 ---
 
-*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode (link to be added after publishing).*
+*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link: https://darajat.hashnode.dev/presecurity-learning-to-think-like-both-the-attacker-and-the-defender *
 
 *Until then, keep exploring, keep experimenting, keep learning.*
