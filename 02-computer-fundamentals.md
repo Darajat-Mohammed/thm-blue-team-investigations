@@ -1,6 +1,6 @@
 # Computer Fundamentals
 
-**Series:** TryHackMe Room Walkthroughs · Room 02 **Platform:** [TryHackMe](https://tryhackme.com/) **Module:** Computer Fundamentals **Focus:** Hardware, system components, and the boot process, examined from a defender's perspective **Companion article:**
+**Series:** TryHackMe Room Walkthroughs · Room 02 **Platform:** [TryHackMe](https://tryhackme.com/) **Module:** Computer Fundamentals **Focus:** Hardware, system components, and the boot process, examined from a defender's perspective **Companion article:** https://darajat.hashnode.dev/computer-fundamentals
 
 > **Series note:** This is Room 02 of an ongoing TryHackMe Room Walkthroughs series. Each entry documents method and understanding, not flags or quiz answers, so the rooms keep their learning value for other beginners.
 
@@ -155,6 +155,6 @@ The three questions applied to every part and every step.
 
 ---
 
-*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link to be added after publishing.*
+*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link: https://darajat.hashnode.dev/computer-fundamentals*
 
 *Until then, keep exploring, keep experimenting, keep learning.*
