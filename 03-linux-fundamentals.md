@@ -1,4 +1,4 @@
-TryHackMe **—** Linux Fundamentals
+**TryHackMe — Linux Fundamentals**
 
 **Series:** TryHackMe Room Walkthroughs · Room 03 **Platform:** [TryHackMe](https://tryhackme.com/) **Module:** Linux Fundamentals **Focus:** Navigating the Linux terminal, basic commands, file searching, and shell operators from a beginner's perspective **Companion article:** \[Hashnode, add link after publishing\]
 
