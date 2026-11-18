@@ -1,6 +1,6 @@
 **TryHackMe — Linux Fundamentals**
 
-**Series:** TryHackMe Room Walkthroughs · Room 03 **Platform:** [TryHackMe](https://tryhackme.com/) **Module:** Linux Fundamentals **Focus:** Navigating the Linux terminal, basic commands, file searching, and shell operators from a beginner's perspective **Companion article:** https://darajat.hashnode.dev/linux-fundamentals-learning-to-speak-the-machine-s-language
+**Series:** TryHackMe Room Walkthroughs · Room 03 **Platform:** [TryHackMe](https://tryhackme.com/) **Module:** Linux Fundamentals **Focus:** Navigating the Linux terminal, basic commands, file searching, and shell operators from a beginner's perspective **Companion article:** \[Hashnode, add link after publishing\]
 
 > **Series note:** This is Room 03 of an ongoing TryHackMe Room Walkthroughs series. Each entry documents method and understanding, not flags or quiz answers, so the rooms keep their learning value for other beginners.
 
@@ -152,6 +152,6 @@ Linux uses special characters to chain commands together and direct where the ou
 
 ---
 
-*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link: https://darajat.hashnode.dev/linux-fundamentals-learning-to-speak-the-machine-s-language*
+*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link to be added after publishing.*
 
 *Until then, keep exploring, keep experimenting, and keep learning.*
