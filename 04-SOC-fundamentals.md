@@ -4,7 +4,7 @@
 **Platform:** [TryHackMe](https://tryhackme.com/)
 **Module:** SOC Fundamentals
 **Focus:** The pillars of a Security Operations Center (People, Process, Technology) and practical alert triage.
-**Companion article:** [Hashnode, add link after publishing]
+**Companion article:** (https://darajat.hashnode.dev/soc-fundamentals)
 
 > **Series note:** This is Room 04 of an ongoing TryHackMe Room Walkthroughs series. Each entry documents method and understanding, not flags or quiz answers, so the rooms keep their learning value for other beginners.
 
@@ -144,6 +144,6 @@ Using the SIEM solution, I investigated the associated logs and answered the 5 W
 
 ---
 
-*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link to be added after publishing.*
+*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link: (https://darajat.hashnode.dev/soc-fundamentals)*
 
 *Until then, keep exploring, keep experimenting, and keep learning.*
