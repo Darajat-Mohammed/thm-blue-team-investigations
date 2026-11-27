@@ -4,7 +4,7 @@
 **Platform:** [TryHackMe](https://tryhackme.com/)
 **Module:** Operating System Introduction
 **Focus:** Understanding the core duties of an OS, privilege layers, interfaces, and the OS landscape.
-**Companion article:** [Hashnode, add link after publishing]
+**Companion article:** [Hashnode](https://darajat.hashnode.dev/operating-systems-introduction)
 
 > **Series note:** This is Room 05 of an ongoing TryHackMe Room Walkthroughs series. Each entry documents method and understanding, not flags or quiz answers, so the rooms keep their learning value for other beginners.
 
@@ -136,6 +136,6 @@ I continued investigating the virtual machine. I checked the device types, navig
 
 ---
 
-*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link to be added after publishing.*
+*Part of the TryHackMe Room Walkthroughs series. Companion article on Hashnode, link: (https://darajat.hashnode.dev/operating-systems-introduction)*
 
 *Until then, keep exploring, keep experimenting, and keep learning.*
